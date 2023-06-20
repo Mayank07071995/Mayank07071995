@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Technofy_77
+- 👋 Hi, I’m @Mayank07071995
 - 👀 I’m interested in data and project management
 - 🌱 I’m currently learning data Analyst
 - 💞️ I’m looking to collaborate on learning and business platform.
